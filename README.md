@@ -497,7 +497,6 @@ The decompilation revealed a clean separation between native Android code and Re
 
 | Metric | Value |
 |--------|-------|
-| **Analysis Date** | 2026-04-25 |
 | **Analyst** | Yashwanth Kumar Gummadavelli |
 | **Decompilation Tool** | jadx 1.5.5 |
 | **Total Analysis Time** | ~ 3 days |
