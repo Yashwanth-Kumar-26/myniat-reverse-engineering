@@ -24,8 +24,7 @@ All analysis is based on publicly accessible application binaries and is shared 
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?style=flat-square&logo=amazon-aws)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Hermes](https://img.shields.io/badge/Hermes-Engine-blueviolet?style=flat-square)
-![Repo Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Yashwanth-Kumar-26/myniat-reverse-engineering&title=visitors)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Yashwanth-Kumar-26.myniat-reverse-engineering)
 </div>
 
 ---
