@@ -29,6 +29,16 @@ All analysis is based on publicly accessible application binaries and is shared 
 
 ---
 
+## Contributors
+
+A huge thank you to everyone who has contributed to myniat-reverse-engineering! Your efforts make this project possible.
+
+<p align="left">
+  <a href="https://github.com/Yashwanth-Kumar-26/myniat-reverse-engineering/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Yashwanth-Kumar-26/myniat-reverse-engineering&max=1000" alt="Contributors" />
+  </a>
+</p>
+
 ## Table of Contents
 
 1. [App Overview](#app-overview)
